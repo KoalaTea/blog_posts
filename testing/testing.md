@@ -4,3 +4,4 @@ lots of info
 
 ### Why we test are code
 ### Examples (different languages. Golang, python, javascript, integration, contract driven tests, unittests, ci setup, hermetic servers set up, development environment setups)
+### build tags to seperate integration tests
