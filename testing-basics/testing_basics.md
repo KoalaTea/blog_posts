@@ -1,10 +1,11 @@
 # Testing
 This post is majorly distilled from Ian Coopers talk (https://www.youtube.com/watch?v=EZ05e7EMOLM), Googles Testing on the Toilet Series (https://testing.googleblog.com/search/label/TotT), Martin Fowlers testing related blog posts (https://martinfowler.com/articles/practical-test-pyramid.html), and Rob Moores posts (https://robdmoore.id.au/blog/2015/01/26/review-of-ian-cooper-tdd-where-did-it-all-go-wrong)
 
-## Types
+## Types of Testing
 ## Unit Testing
 ## Integration Testing
 ## Functional Testing
+## A/B Testing
 
 ## Testing Pyramid
 
@@ -24,13 +25,13 @@ Ian suggests that the original TDD Flow outlined by Kent Beck has been lost in t
     When you do this right, you end up with several classes that are all tested by a single test-class. This is how things should be. The tests document the requirements of the system with minimal knowledge of the implementation. The implementation could be One Massive Function or it could be a bunch of classes.
 
 Ian points out that you cannot refactor if you have implementation details in your tests because by definition, refactoring is where you change implementation details and not the public interface or the tests.
-## DBB
+## BDD
 
 ## Good tests
 
-## Splitting up tests that rely on other systems
-
 ## Testing correctly
+
+## Splitting up tests that rely on other systems
 
 ### Further links
 #### Blogs
