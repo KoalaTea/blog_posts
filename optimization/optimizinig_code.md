@@ -7,6 +7,7 @@ scale and requirements of the application, and decide if optimization is require
 ## batching
 ## async
 ### polling
+## connection pooling
 # cpu bound
 ## algorithmic
 ## caching
