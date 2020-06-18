@@ -13,5 +13,13 @@ scale and requirements of the application, and decide if optimization is require
 ## caching
 ## tricks per language
 
+## Python
+# Using sets/dictionaries instead of lists where membership needs to be asked (iteration vs hash)
+# Exceptions 
+https://docs.python.org/3/faq/design.html#how-fast-are-exceptions
+# pointers and importing
+# that one post
+
+
 ## links
 - 
